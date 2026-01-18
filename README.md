@@ -66,4 +66,3 @@ License.
 The logo is licensed under the [Creative Commons NoDerivatives 4.0
 License](https://creativecommons.org/licenses/by-nd/4.0/).
 
-If you have some other use in mind, contact us.
